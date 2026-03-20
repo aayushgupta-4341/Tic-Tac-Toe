@@ -38,8 +38,7 @@ An interactive and modern **Tic Tac Toe Game** built using **HTML, CSS, and Java
 
 ## 📸 Screenshot
 
-![Game Screenshot](<img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/713b8c19-19c3-4eaf-8954-831259ec5e1c" />
-)
+<img width="1918" height="950" alt="image" src="https://github.com/user-attachments/assets/713b8c19-19c3-4eaf-8954-831259ec5e1c" />
 
 ---
 
